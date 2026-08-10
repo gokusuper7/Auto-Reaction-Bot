@@ -205,7 +205,7 @@ function getStartKeyboard(botUsername, userId, ownerId) {
 function getAboutKeyboard() {
     return [
         [
-            { text: '🌐 𝖶𝖾𝖻𝗌𝗂𝗍𝖾 ✨', url: 'https://alyareactionbot.vercel.app', style: 'success' }
+            { text: '🌐 𝖶𝖾𝖻𝗌𝗂𝗍𝖾 ✨', url: 'https://t.me/reactionbotupdate', style: 'success' }
         ],
         [
             { text: '☕ 𝖣𝗈𝗇𝖺𝗍𝖾', callback_data: 'cb_donate', style: 'primary' },

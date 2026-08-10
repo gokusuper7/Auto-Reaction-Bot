@@ -72,8 +72,8 @@ export const aboutMessage = `🤖 <a href='https://github.com/TechifyBots/Auto-R
 😶‍🌫️ 𝖳𝗁𝖺𝗇𝗄𝗌 𝖿𝗈𝗋 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗈𝗍.
 
 » 🚀 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: v${VERSION}
-» 🔔 𝗨𝗽𝗱𝗮𝘁𝗲: <b><a href='https://telegram.me/TechifyBots'>Techify Bots</a></b>
-» 💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: <b><a href='https://telegram.me/ImRahulDhankhar'>𝘙𝘢𝘩𝘶𝘭</a></b>`
+» 🔔 𝗨𝗽𝗱𝗮𝘁𝗲: <b><a href='https://telegram.me/reactionbotupdate'>reaction botupdate</a></b>
+» 💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: <b><a href='https://telegram.me/proto_is_back'>proto</a></b>`
 
 // ══════════════════════════════════════════════════════════════
 // DONATE MESSAGE
@@ -86,9 +86,9 @@ export const donateMessage = `🎁 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗧𝗵𝗲 �
 
 💰 𝗗𝗼𝗻𝗮𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗮𝗶𝗹𝘀:
 
-🌐 <b>𝗗𝗼𝗻𝗮𝘁𝗲:</b> <a href="https://techifybots.github.io/PayWeb">💝 𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
+🌐 <b>𝗗𝗼𝗻𝗮𝘁𝗲:</b> <a href="https://reactionbotupdate.github">💝 𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
 
-🇮🇳 𝗨𝗣𝗜 𝗜𝗗: <code>RahulDhankhar@UPI</code>
+🇮🇳 𝗨𝗣𝗜 𝗜𝗗: <code>rudrabiswas0@UPI</code>
 
 ────────────────
 

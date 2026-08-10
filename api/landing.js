@@ -45,8 +45,8 @@ export const htmlContent = `
   <!-- Twitter Card — X/Twitter preview                           -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@TechifyBots" />
-  <meta name="twitter:creator" content="@TechifyBots" />
+  <meta name="twitter:site" content="@reactionbotupdate" />
+  <meta name="twitter:creator" content="@reactionbotupdate" />
   <meta name="twitter:title" content="Auto · Reaction Bot" />
   <meta name="twitter:description" content="Fast Telegram auto-reaction bot. Deploy anywhere, react to everything." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />

@@ -232,8 +232,8 @@ function getHelpKeyboard(userId, ownerId) {
             { text: '✨ 𝖱𝖾𝖺𝖼𝗍𝗂𝗈𝗇𝗌 💫', callback_data: 'cb_reactions', style: 'success' },
         ],
         [
-            { text: '📢 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url: 'https://telegram.me/TechifyBots', style: 'primary' },
-            { text: '💬 𝖲𝗎𝗉𝗉𝗈𝗋𝗍', url: 'https://telegram.me/TechifySupport', style: 'primary' },
+            { text: '📢 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url: 'https://t.me/reactionbotupdate', style: 'primary' },
+            { text: '💬 𝖲𝗎𝗉𝗉𝗈𝗋𝗍', url: 'https://t.me/reactionbotupdate', style: 'primary' },
         ],
     ];
 

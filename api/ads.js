@@ -16,7 +16,7 @@ export function getRandomAd() {
 
 export function getAdFooter() {
     const ad = getRandomAd();
-    return `\n\n✨ 𝗕𝘆: <b><a href="https://telegram.me/Bramhadaittya>Bramha daittya</a></b>\n<blockquote>${ad}</blockquote>`;
+    return `\n\n✨ 𝗕𝘆: <b><a href="https://telegram.me/proto_is_back>pro to</a></b>\n<blockquote>${ad}</blockquote>`;
 }
 
 export function getAdCount() {

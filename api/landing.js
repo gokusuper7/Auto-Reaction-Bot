@@ -23,14 +23,14 @@ export const htmlContent = `
   <!-- ═══════════════════════════════════════════════════════════ -->
   <meta name="description" content="Alya Reaction Bot — fast Telegram auto-reaction bot. Deploy on Cloudflare, Vercel, or Docker. Auto-react to messages with curated emojis.">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://alyareactionbot.vercel.app">
+  <link rel="canonical" href="https://t.me/reactionbotupdate">
 
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- Open Graph — Facebook, Discord, Telegram preview, LinkedIn -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <meta property="og:title" content="Alya · Reaction Bot" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://alyareactionbot.vercel.app" />
+  <meta property="og:url" content="https://t.me/reactionbotupdate" />
   <meta property="og:image" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />
   <meta property="og:image:type" content="image/png" />
@@ -51,7 +51,7 @@ export const htmlContent = `
   <meta name="twitter:description" content="Fast Telegram auto-reaction bot. Deploy anywhere, react to everything." />
   <meta name="twitter:image" content="https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png" />
   <meta name="twitter:image:alt" content="Alya Reaction Bot — Automated Telegram Reactions" />
-  <meta name="twitter:domain" content="alyareactionbot.vercel.app" />
+  <meta name="twitter:domain" content="areactionbotupdate" />
 
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- JSON-LD Structured Data — Google rich results              -->
@@ -62,7 +62,7 @@ export const htmlContent = `
     "@type": "SoftwareApplication",
     "name": "Auto Reaction Bot",
     "description": "Fast Telegram auto-reaction bot. Deploy on Cloudflare, Vercel, or Docker. Per-chat customization and privacy-first design.",
-    "url": "https://alyareactionbot.vercel.app",
+    "url": "https://t.me/reactionbotupdate",
     "applicationCategory": "CommunicationApplication",
     "operatingSystem": "Cloudflare Workers, Vercel, Docker",
     "offers": {
@@ -72,8 +72,8 @@ export const htmlContent = `
     },
     "author": {
       "@type": "Person",
-      "name": "Techify Bots",
-      "url": "https://github.com/TechifyBots"
+      "name": "reaction Bots",
+      "url": "https://t.me/reactionbotupdate"
     },
     "image": "https://raw.githubusercontent.com/TechifyBots/Auto-Reaction-Bot/main/assets/banner.png",
     "softwareVersion": "${VERSION}",
@@ -651,9 +651,9 @@ export const htmlContent = `
       <div class="island-links">
         <a href="#features">Features</a>
         <a href="#deploy">Deploy</a>
-        <a href="https://github.com/TechifyBots/Auto-Reaction-Bot" target="_blank">GitHub</a>
+        <a href="https://t.me/reactionbotupdate" target="_blank">GitHub</a>
       </div>
-      <a href="https://telegram.me/AlyaReactionBot" target="_blank" class="island-cta"><i data-lucide="zap"></i> Launch</a>
+      <a href="https://t.me/reactionbotupdate" target="_blank" class="island-cta"><i data-lucide="zap"></i> Launch</a>
     </div>
   </div>
 
@@ -681,7 +681,7 @@ export const htmlContent = `
           <p class="hero-desc">Automatically react to Telegram messages with customizable emojis. Fast, lightweight, and easy to deploy on Cloudflare Workers, Vercel, Docker, and other hosting platforms.</p>
           <div class="hero-btns">
             <a href="#deploy" class="btn btn-primary"><i data-lucide="rocket"></i> Deploy Now</a>
-            <a href="https://github.com/TechifyBots/Auto-Reaction-Bot" target="_blank" class="btn btn-ghost"><i data-lucide="code-2"></i> Source Code</a>
+            <a href="https://t.me/reactionbotupdate" target="_blank" class="btn btn-ghost"><i data-lucide="code-2"></i> Source Code</a>
           </div>
         </div>
         <div class="hero-character">
@@ -804,8 +804,8 @@ export const htmlContent = `
         <h3>Ready to use <span class="hl" style="background:var(--gradient-main);-webkit-background-clip:text;background-clip:text;color:transparent;">Auto Reaction Bot</span>?</h3>
         <p>Deploy your own Telegram reaction bot in minutes and start automating message reactions with ease.</p>
         <div class="cta-btns">
-          <a href="https://telegram.me/AlyaReactionBot" target="_blank" class="btn btn-primary"><i data-lucide="message-circle"></i> Try on Telegram</a>
-          <a href="https://github.com/TechifyBots/Auto-Reaction-Bot" target="_blank" class="btn btn-ghost"><i data-lucide="code-2"></i> GitHub</a>
+          <a href="https://t.me/reactionbotupdate" target="_blank" class="btn btn-primary"><i data-lucide="message-circle"></i> Try on Telegram</a>
+          <a href="https://t.me/reactionbotupdate" target="_blank" class="btn btn-ghost"><i data-lucide="code-2"></i> GitHub</a>
         </div>
         <div class="cta-badges">
           <span><i data-lucide="zap"></i> fast</span>
@@ -825,7 +825,7 @@ export const htmlContent = `
     <div class="container">
       <span>© <span id="year"></span> Auto Reaction Bot</span>
       <div class="ft-right">
-        <span>Built with <i data-lucide="heart" class="ft-heart"></i> by <a href="https://www.instagram.com/ImRahulDhankhar">Rahul</a></span>
+        <span>Built with <i data-lucide="heart" class="ft-heart"></i> by <a href="https://t.me/reactionbotupdate">proto</a></span>
         <span class="ft-ver">v${VERSION}</span>
       </div>
     </div>
